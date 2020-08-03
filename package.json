@@ -1,0 +1,26 @@
+{
+  "name": "just-another-rpg",
+  "version": "1.0.0",
+  "description": "simple rpg",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khargol1/just-another-rpg.git"
+  },
+  "keywords": [
+    "school",
+    "rpg"
+  ],
+  "author": "khargol1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khargol1/just-another-rpg/issues"
+  },
+  "homepage": "https://github.com/khargol1/just-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
